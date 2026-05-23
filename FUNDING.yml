@@ -1,0 +1,23 @@
+# Canonical FUNDING.yml for the Kiro ecosystem.
+#
+# Where to put this file:
+#   - Personal repos:  github.com/erikdubois/.github → .github/FUNDING.yml
+#   - Kiro org repos:  github.com/kirodubes/.github → .github/FUNDING.yml
+#
+# A profile-level FUNDING.yml in the special `.github` repo cascades to every
+# repo under that account/org that does NOT have its own .github/FUNDING.yml.
+# So you only need ONE copy in each of the two profile repos to power the
+# Sponsor button on every Kiro / Erik repo. New repos inherit automatically.
+#
+# To override per-repo (rare), drop a different .github/FUNDING.yml into that
+# specific repo.
+
+# GitHub Sponsors profile
+github: [erikdubois]
+
+# Ko-fi (one-off donations)
+ko_fi: erikdubois
+
+# Catch-all URLs — for channels GitHub doesn't natively support
+custom:
+  - https://www.paypal.me/erikdubois
